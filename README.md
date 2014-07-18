@@ -1,12 +1,12 @@
-= Task Lister
+## Task Lister
 
 A tool to take a folder on the network, wait for a group of PDFs, combine them, and then email out the new combined PDF as an attachment. 
 
-== Configuration
+## Configuration
 
 This tool is still awaiting full deployment.
 
-== Testing
+## Testing
 
 This script was designed and concepted by myself, but I had input and help from a couple different people who are much, much smarter than myself. 
 
